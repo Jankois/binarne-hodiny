@@ -29,217 +29,217 @@ function myTimer()
 
     if(s%2 == 1)
     {
-        s1.src="/img/1.jpg";
+        s1.src="./img/1.jpg";
         a = s - 1;
         s = a/2
     }
     else
     {
-        s1.src="/img/0.png"
+        s1.src="./img/0.png"
         s = s/2
     }
 
     if(s%2 == 1)
     {
-        s2.src="/img/1.jpg";
+        s2.src="./img/1.jpg";
         a = s - 1;
         s = a/2
     }
     else
     {
-        s2.src="/img/0.png"
+        s2.src="./img/0.png"
         s = s/2
     }
 
     if(s%2 == 1)
     {
-        s4.src="/img/1.jpg";
+        s4.src="./img/1.jpg";
         a = s - 1;
         s = a/2
     }
     else
     {
-        s4.src="/img/0.png"
+        s4.src="./img/0.png"
         s = s/2
     }
 
     if(s%2 == 1)
     {
-        s8.src="/img/1.jpg";
+        s8.src="./img/1.jpg";
         a = s - 1;
         s = a/2
     }
     else
     {
-        s8.src="/img/0.png"
+        s8.src="./img/0.png"
         s = s/2
     }
 
     if(s%2 == 1)
     {
-        s16.src="/img/1.jpg";
+        s16.src="./img/1.jpg";
         a = s - 1;
         s = a/2
     }
     else
     {
-        s16.src="/img/0.png"
+        s16.src="./img/0.png"
         s = s/2
     }
 
     if(s%2 == 1)
     {
-        s32.src="/img/1.jpg";
+        s32.src="./img/1.jpg";
         a = s - 1;
         s = a/2
     }
     else
     {
-        s32.src="/img/0.png"
+        s32.src="./img/0.png"
         s = s/2
     }
 
     if(m%2 == 1)
     {
-        m1.src="/img/1.jpg";
+        m1.src="./img/1.jpg";
         a = m - 1;
         m = a/2
     }
     else
     {
-        m1.src="/img/0.png"
+        m1.src="./img/0.png"
         m = m/2
     }
 
     if(m%2 == 1)
     {
-        m2.src="/img/1.jpg";
+        m2.src="./img/1.jpg";
         a = m - 1;
         m = a/2
     }
     else
     {
-        m2.src="/img/0.png"
+        m2.src="./img/0.png"
         m = m/2
     }
 
     if(m%2 == 1)
     {
-        m4.src="/img/1.jpg";
+        m4.src="./img/1.jpg";
         a = m - 1;
         m = a/2
     }
     else
     {
-        m4.src="/img/0.png"
+        m4.src="./img/0.png"
         m = m/2
     }
 
     if(m%2 == 1)
     {
-        m8.src="/img/1.jpg";
+        m8.src="./img/1.jpg";
         a = m - 1;
         m = a/2
     }
     else
     {
-        m8.src="/img/0.png"
+        m8.src="./img/0.png"
         m = m/2
     }
 
     if(m%2 == 1)
     {
-        m16.src="/img/1.jpg";
+        m16.src="./img/1.jpg";
         a = m - 1;
         m = a/2
     }
     else
     {
-        m16.src="/img/0.png"
+        m16.src="./img/0.png"
         m = m/2
     }
 
     if(m%2 == 1)
     {
-        m32.src="/img/1.jpg";
+        m32.src="./img/1.jpg";
         a = m - 1;
         m = a/2
     }
     else
     {
-        m32.src="/img/0.png"
+        m32.src="./img/0.png"
         m = m/2
     }
 
     if(h%2 == 1)
     {
-        h1.src="/img/1.jpg";
+        h1.src="./img/1.jpg";
         a = h - 1;
         h = a/2
     }
     else
     {
-        h1.src="/img/0.png"
+        h1.src="./img/0.png"
         h = h/2
     }
 
     if(h%2 == 1)
     {
-        h2.src="/img/1.jpg";
+        h2.src="./img/1.jpg";
         a = h - 1;
         h = a/2
     }
     else
     {
-        h2.src="/img/0.png"
+        h2.src="./img/0.png"
         h = h/2
     }
 
     if(h%2 == 1)
     {
-        h4.src="/img/1.jpg";
+        h4.src="./img/1.jpg";
         a = h - 1;
         h = a/2
     }
     else
     {
-        h4.src="/img/0.png"
+        h4.src="./img/0.png"
         h = h/2
     }
 
     if(h%2 == 1)
     {
-        h8.src="/img/1.jpg";
+        h8.src="./img/1.jpg";
         a = h - 1;
         h = a/2
     }
     else
     {
-        h8.src="/img/0.png"
+        h8.src="./img/0.png"
         h = h/2
     }
 
     if(h%2 == 1)
     {
-        h16.src="/img/1.jpg";
+        h16.src="./img/1.jpg";
         a = h - 1;
         h = a/2
     }
     else
     {
-        h16.src="/img/0.png"
+        h16.src="./img/0.png"
         h = h/2
     }
 
     if(h%2 == 1)
     {
-        h32.src="/img/1.jpg";
+        h32.src="./img/1.jpg";
         a = h - 1;
         h = a/2
     }
     else
     {
-        h32.src="/img/0.png"
+        h32.src="./img/0.png"
         h = h/2
     }
 }
