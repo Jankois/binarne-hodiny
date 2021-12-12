@@ -1,4 +1,35 @@
 body
 {
     background-color: grey;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.a
+{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px 20px;
+}
+
+.t
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20 px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img
+{
+    height: 100px;
+    width: 100px;
 }
